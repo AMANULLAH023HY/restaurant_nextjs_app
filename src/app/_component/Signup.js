@@ -1,4 +1,4 @@
-const RestaurantSignup = () => {
+const Signup = () => {
   return (
     <>
       <h1>Restaurant Signup Page</h1>
@@ -65,4 +65,4 @@ const RestaurantSignup = () => {
   );
 };
 
-export default RestaurantSignup;
+export default Signup;

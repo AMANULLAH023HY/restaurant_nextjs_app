@@ -1,4 +1,4 @@
-const RestaurantLogin = () => {
+const Login = () => {
   return (
     <>
       <h1>Restaurant Login Page</h1>
@@ -26,5 +26,5 @@ const RestaurantLogin = () => {
   );
 };
 
-export default RestaurantLogin;
+export default Login;
 
